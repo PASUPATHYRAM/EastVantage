@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4872193d-ec3a-40cc-aeb4-254cd62501a7" name="Changes" comment="">
+    <list default="true" id="4872193d-ec3a-40cc-aeb4-254cd62501a7" name="Changes" comment="V1">
       <change afterPath="$PROJECT_DIR$/.idea/EastVantage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/converter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/dbsetup/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/dbsetup/dbsetup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/dbsetup/depedenecy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/logger/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/logger/loggs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/models/addressbook_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/routes/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/schemas/addressbook_schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/service/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/service/request_call.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testcases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +170,27 @@
       <option name="presentableId" value="Default" />
       <updated>1714712378708</updated>
     </task>
+    <task id="LOCAL-00001" summary="V1">
+      <option name="closed" value="true" />
+      <created>1714832320826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714832320826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="V1">
+      <option name="closed" value="true" />
+      <created>1714832378720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714832378720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
 </project>
