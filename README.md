@@ -24,7 +24,7 @@ The application provides the following endpoints:
 1. Clone this repository.
 2. Install the dependencies.
 
-```bash
+bash
 pip install fastapi uvicorn sqlalchemy
 
 ## ApiCall
