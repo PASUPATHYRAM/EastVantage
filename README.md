@@ -27,6 +27,6 @@ The application provides the following endpoints:
 ```bash
 pip install fastapi uvicorn sqlalchemy
 
-## ApiCall
+## `ApiCall
 - Create an account in opencage and have the apikey
 - Should use the apikey while making request (Please refer requestcall.py)
